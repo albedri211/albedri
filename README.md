@@ -3,4 +3,4 @@
 
 ### membuat paragraf
 ini adalah tapilannya
-! [ing]screenshot/Cuplikan layar 2022-10-17 170715.png
+![ing]screenshot/ss1.png
